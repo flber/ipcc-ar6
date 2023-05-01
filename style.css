@@ -1,0 +1,21 @@
+h1 { font-size: 48px; }
+h2 { font-size: 40px; }
+h3 { font-size: 32px; }
+p { font-size: 24px; }
+
+img { width: 100%; }
+
+.section-summary {
+	background: #F7CAAC;
+}
+
+.box {
+	background: #DEEBF6;
+}
+
+.border {
+	padding: 1em;
+	border: 2px solid black;
+}
+.border > *:first-child { margin-top: 0px; }
+.border > *:last-child { margin-bottom: 0px; }
