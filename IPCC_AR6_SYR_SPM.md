@@ -110,6 +110,7 @@ Based on scientific understanding, key findings can be formulated as statements 
 
 [^14] Slow-onset events are described among the climatic-impact drivers of the WGI AR6 and refer to the risks and impacts associated with e.g., increasing temperature means, desertification, decreasing precipitation, loss of biodiversity, land and forest degradation, glacial retreat and related impacts, ocean acidification, sea level rise and salinization. {2.1.2}
 
+![](images/IPCC_AR6_SYR_SPM_Figure1.png)
 
 *Figure SPM.1: (a)* Climate change has already caused widespread impacts and related losses and damages on human systems and altered terrestrial, freshwater and ocean ecosystems worldwide. Physical water availability includes balance of water available from various sources including ground water, water quality and demand for water. Global mental health and displacement assessments reflect only assessed regions. Confidence levels reflect the assessment of attribution of the observed impact to climate change. *(b)* Observed impacts are connected to physical climate changes including many that have been attributed to human influence such as the selected climatic impact-drivers shown. Confidence and likelihood levels reflect the assessment of attribution of the observed climatic impact-driver to human influence. *(c)* Observed (1900–2020) and projected (2021–2100) changes in global surface temperature (relative to 1850–1900), which are linked to changes in climate conditions and impacts, illustrate how the climate has already changed and will change along the lifespan of three representative generations (born in 1950, 1980 and 2020). Future projections (2021–2100) of changes in global surface temperature are shown for very low (SSP1-1.9), low (SSP1-2.6), intermediate (SSP2-4.5), high (SSP3-7.0) and very high (SSP5-8.5) GHG emissions scenarios. Changes in annual global surface temperatures are presented as ‘climate stripes’, with future projections showing the human-caused long-term trends and continuing modulation by natural variability (represented here using observed levels of past natural variability). Colours on the generational icons correspond to the global surface temperature stripes for each year, with segments on future icons differentiating possible future experiences. {2.1, 2.1.2, Figure 2.1, Table 2.1, Figure 2.3, Cross-Section Box.2, 3.1, Figure 3.3, 4.1, 4.3} (Box SPM.1)
 
@@ -185,8 +186,7 @@ Global warming levels (GWLs) relative to 1850–1900 are used to integrate the a
 [END BOX SPM.1 HERE]
 
 
-*Current Mitigation Progress, Gaps and Challenges*
-
+### Current Mitigation Progress, Gaps and Challenges
 
 <div class="section-summary"> *A.4 Policies and laws addressing mitigation have consistently expanded since AR5. Global GHG emissions in 2030 implied by nationally determined contributions (NDCs) announced by October 2021 make it likely that warming will exceed 1.5°C during the 21st century and make it harder to limit warming below 2°C. There are gaps between projected emissions from implemented policies and those from NDCs and finance flows fall short of the levels needed to meet climate goals across all sectors and regions. (high confidence) {2.2, 2.3, Figure 2.5, Table 2.2}* </div>
 
@@ -212,13 +212,13 @@ Global warming levels (GWLs) relative to 1850–1900 are used to integrate the a
 [^27] Projected 2030 GHG emissions are 50 (47–55) GtCO-eq if all conditional NDC elements are taken into account. Without conditional lements, the global emissions are projected to be approximately similar to modelled 2019 levels at 53 (50–57) GtCO2-eq. {2.3.1, Table 2.2}
 
 
-B.    Future Climate Change, Risks, and Long-Term Responses
+## B.	Future Climate Change, Risks, and Long-Term Responses*
 
-Future Climate Change
+### Future Climate Change
 
 <div class="section-summary"> *B.1 Continued greenhouse gas emissions will lead to increasing global warming, with the best estimate of reaching 1.5°C in the near term in considered scenarios and modelled pathways. Every increment of global warming will intensify multiple and concurrent hazards (high confidence). Deep, rapid, and sustained reductions in greenhouse gas emissions would lead to a discernible slowdown in global warming within around two decades, and also to discernible changes in atmospheric composition within a few years (high confidence). {Cross-Section Boxes 1 and 2, 3.1, 3.3, Table 3.1, Figure 3.1, 4.3} (Figure SPM.2, Box SPM.1)* </div>
 
-*B.1.1* Global warming28 will continue to increase in the near term (2021-2040) mainly due to increased cumulative CO2 emissions in nearly all considered scenarios and modelled pathways. In the near term, global warming is more likely than not to reach 1.5°C even under the very low GHG emission scenario (SSP1-1.9) and likely or very likely to exceed 1.5°C under higher emissions scenarios. In the considered scenarios and modelled pathways, the best estimates of the time when the level of global warming of 1.5°C is reached lie in the near term[^29]. Global warming declines back to below 1.5°C by the end of the 21st century in some scenarios and modelled pathways (see B.7). The assessed climate response to GHG emissions scenarios results in a best estimate of warming for 2081–2100 that spans a range from 1.4°C for a very low GHG emissions scenario (SSP1-1.9) to 2.7°C for an intermediate GHG emissions scenario (SSP2-4.5) and 4.4°C for a very high GHG emissions scenario (SSP5-8.5)[^30], with narrower uncertainty ranges[^31] than for corresponding scenarios in AR5. {Cross-Section Boxes 1 and 2, 3.1.1, 3.3.4, Table 3.1, 4.3} (Box SPM.1)
+*B.1.1* Global warming[^28] will continue to increase in the near term (2021-2040) mainly due to increased cumulative CO2 emissions in nearly all considered scenarios and modelled pathways. In the near term, global warming is more likely than not to reach 1.5°C even under the very low GHG emission scenario (SSP1-1.9) and likely or very likely to exceed 1.5°C under higher emissions scenarios. In the considered scenarios and modelled pathways, the best estimates of the time when the level of global warming of 1.5°C is reached lie in the near term[^29]. Global warming declines back to below 1.5°C by the end of the 21st century in some scenarios and modelled pathways (see B.7). The assessed climate response to GHG emissions scenarios results in a best estimate of warming for 2081–2100 that spans a range from 1.4°C for a very low GHG emissions scenario (SSP1-1.9) to 2.7°C for an intermediate GHG emissions scenario (SSP2-4.5) and 4.4°C for a very high GHG emissions scenario (SSP5-8.5)[^30], with narrower uncertainty ranges[^31] than for corresponding scenarios in AR5. {Cross-Section Boxes 1 and 2, 3.1.1, 3.3.4, Table 3.1, 4.3} (Box SPM.1)
 
 *B.1.2* Discernible differences in trends of global surface temperature between contrasting GHG emissions scenarios (SSP1-1.9 and SSP1-2.6 vs. SSP3-7.0 and SSP5-8.5) would begin to emerge from natural variability32 within around 20 years. Under these contrasting scenarios, discernible effects would emerge within years for GHG concentrations, and sooner for air quality improvements, due to the combined targeted air pollution controls and strong and sustained methane emissions reductions. Targeted reductions of air pollutant emissions lead to more rapid improvements in air quality within years compared to reductions in GHG emissions only, but in the long term, further improvements are projected in scenarios that combine efforts to reduce air pollutants as well as GHG emissions33. (high confidence) {3.1.1} (Box SPM.1)
 
@@ -247,15 +247,16 @@ Future Climate Change
 
 [^34] Permafrost, seasonal snow cover, glaciers, the Greenland and Antarctic Ice Sheets, and Arctic Sea ice.
 
-[^35] Based on 2500-year reconstructions, eruptions with a radiative forcing more negative than -1 Wm-2, related to the radiative effect of volcanic stratospheric aerosols in the literature assessed in this report, occur on average twice per century. {4.3}
+[^35] Based on 2500-year reconstructions, eruptions with a radiative forcing more negative than -1 Wm^-2, related to the radiative effect of volcanic stratospheric aerosols in the literature assessed in this report, occur on average twice per century. {4.3}
 
+![](images/IPCC_AR6_SYR_SPM_Figure2.png)
 
-Figure SPM.2: Projected changes of annual maximum daily maximum temperature, annual mean total column soil moisture and annual maximum 1-day precipitation at global warming levels of 1.5°C, 2°C, 3°C, and 4°C relative to 1850–1900. Projected (a) annual maximum daily temperature change (°C), (b) annual mean total column soil moisture (standard deviation), (c) annual maximum 1-day precipitation change (%). The panels show CMIP6 multi-model median changes. In panels (b) and (c), large positive relative changes in dry regions may correspond to small absolute changes. In panel (b), the unit is the standard deviation of interannual variability in soil moisture during 1850–1900. Standard deviation is a widely used metric in characterising drought severity. A projected reduction in mean soil moisture by one standard deviation corresponds to soil moisture conditions typical of droughts that occurred about once every six years during 1850– 1900. The WGI Interactive Atlas (https://interactive-atlas.ipcc.ch/ ) can be used to explore additional changes in the climate system across the range of global warming levels presented in this figure. {Figure 3.1, Cross-Section Box.2}
+*Figure SPM.2: Projected changes of annual maximum daily maximum temperature, annual mean total column soil moisture and annual maximum 1-day precipitation at global warming levels of 1.5°C, 2°C, 3°C, and 4°C relative to 1850–1900.* Projected (a) annual maximum daily temperature change (°C), (b) annual mean total column soil moisture (standard deviation), (c) annual maximum 1-day precipitation change (%). The panels show CMIP6 multi-model median changes. In panels (b) and (c), large positive relative changes in dry regions may correspond to small absolute changes. In panel (b), the unit is the standard deviation of interannual variability in soil moisture during 1850–1900. Standard deviation is a widely used metric in characterising drought severity. A projected reduction in mean soil moisture by one standard deviation corresponds to soil moisture conditions typical of droughts that occurred about once every six years during 1850– 1900. The WGI Interactive Atlas (https://interactive-atlas.ipcc.ch/ ) can be used to explore additional changes in the climate system across the range of global warming levels presented in this figure. {Figure 3.1, Cross-Section Box.2}
 
 [END FIGURE SPM.2 HERE]
 
 
-Climate Change Impacts and Climate-Related Risks
+### Climate Change Impacts and Climate-Related Risks
 
 <div class="section-summary"> *B.2 For any given future warming level, many climate-related risks are higher than assessed in AR5, and projected long-term impacts are up to multiple times higher than currently observed (high confidence). Risks and projected adverse impacts and related losses and damages from climate change escalate with every increment of global warming (very high confidence). Climatic and non-climatic risks will increasingly interact, creating compound and cascading risks that are more complex and difficult to manage (high confidence). {Cross-Section Box.2, 3.1, 4.3, Figure 3.3, Figure 4.3} (Figure SPM.3, Figure SPM.4)* </div>
 
@@ -277,6 +278,8 @@ Climate Change Impacts and Climate-Related Risks
 
 [START FIGURE SPM.3 HERE]
 
+![](images/IPCC_AR6_SYR_SPM_Figure3.png)
+
 Figure SPM.3: Projected risks and impacts of climate change on natural and human systems at different global warming levels (GWLs) relative to 1850-1900 levels. Projected risks and impacts shown on the maps are based on outputs from different subsets of Earth system and impact models that were used to project each impact indicator without additional adaptation. WGII provides further assessment of the impacts on human and natural systems using these projections and additional lines of evidence. (a) Risks of species losses as indicated by the percentage of assessed species exposed to potentially dangerous temperature conditions, as defined by conditions beyond the estimated historical (1850-2005) maximum mean annual temperature experienced by each species, at GWLs of 1.5 oC, 2oC,3oC and 4oC. Underpinning projections of temperature are from 21 Earth system models and do not consider extreme events impacting ecosystems such as the Arctic. (b) Risks to human health as indicated by the days per year of population exposure to hyperthermic conditions that pose a risk of mortality from surface air temperature and humidity conditions for historical period (1991-2005) and at GWLs of 1.7°C–2.3°C (mean = 1.9°C; 13 climate models), 2.4°C–3.1°C (2.7°C; 16 climate models) and 4.2°C–5.4°C (4.7°C; 15 climate models). Interquartile ranges of GWLs by 2081–2100 under RCP2.6, RCP4.5 and RCP8.5. The presented index is consistent with common features found in many indices included within WGI and WGII assessments (c) Impacts on food production: (c1) Changes in maize yield by 2080–2099 relative to 1986–2005 at projected GWLs of 1.6°C–2.4oC (2.0°C), 3.3°C–4.8oC (4.1°C) and 3.9°C–6.0oC (4.9°C). Median yield changes from an ensemble of 12 crop models, each driven by bias-adjusted outputs from 5 Earth system models, from the Agricultural Model Intercomparison and Improvement Project (AgMIP) and the Inter-Sectoral Impact Model Intercomparison Project (ISIMIP). Maps depict 2080–2099 compared to 1986–2005 for current growing regions (>10 ha), with the corresponding range of future global warming levels shown under SSP1-2.6, SSP3-7.0 and SSP5-8.5, respectively. Hatching indicates areas where <70% of the climate-crop model combinations agree on the sign of impact. (c2) Change in maximum fisheries catch potential by 2081–2099 relative to 1986–2005 at projected GWLs of 0.9°C–2.0°C (1.5°C) and 3.4°C–5.2°C (4.3°C). GWLs by 2081–2100 under RCP2.6 and RCP8.5. Hatching indicates where the two climate-fisheries models disagree in the direction of change. Large relative changes in low yielding regions may correspond to small absolute changes. Biodiversity and fisheries in Antarctica were not analysed due to data limitations. Food security is also affected by crop and fishery failures not presented here.{3.1.2, Figure 3.2, Cross-Section Box.2} (Box SPM.1)
 
 [END FIGURE SPM.3 HERE]
@@ -284,12 +287,14 @@ Figure SPM.3: Projected risks and impacts of climate change on natural and human
 
 [START FIGURE SPM.4 HERE]
 
+![](images/IPCC_AR6_SYR_SPM_Figure4.png)
+
 Figure SPM.4: Subset of assessed climate outcomes and associated global and regional climate risks. The burning embers result from a literature based expert elicitation. Panel (a): Left – Global surface temperature changes in °C relative to 1850–1900. These changes were obtained by combining CMIP6 model simulations with observational constraints based on past simulated warming, as well as an updated assessment of equilibrium climate sensitivity. Very likely ranges are shown for the low and high GHG emissions scenarios (SSP1-2.6 and SSP3-7.0) (Cross-Section Box 2); Right – Global Reasons for Concern (RFC), comparing AR6 (thick embers) and AR5 (thin embers) assessments. Risk transitions have generally shifted towards lower temperatures with updated scientific understanding. Diagrams are shown for each RFC, assuming low to no adaptation. Lines connect the midpoints of the transitions from moderate to high risk across AR5 and AR6. Panel (b): Selected global risks for land and ocean ecosystems, illustrating general increase of risk with global warming levels with low to no adaptation. Panel (c): Left - Global mean sea level change in centimetres, relative to 1900. The historical changes (black) are observed by tide gauges before 1992 and altimeters afterwards. The future changes to 2100 (coloured lines and shading) are assessed consistently with observational constraints based on emulation of CMIP, ice-sheet, and glacier models, and likely ranges are shown for SSP1-2.6 and SSP3-7.0. Right - Assessment of the combined risk of coastal flooding, erosion and salinization for four illustrative coastal geographies in 2100, due to changing mean and extreme sea levels, under two response scenarios, with respect to the SROCC baseline period (1986-2005). The assessment does not account for changes in extreme sea level beyond those directly induced by mean sea level rise; risk levels could increase if other changes in extreme sea levels were considered (e.g., due to changes in cyclone intensity). “No-to-moderate response” describes efforts as of today (i.e. no further significant action or new types of actions). “Maximum potential response” represent a combination of responses implemented to their full extent and thus significant additional efforts compared to today, assuming minimal financial, social and political barriers. (In this context, ‘today’ refers to 2019.) The assessment criteria include exposure and vulnerability, coastal hazards, in-situ responses and planned relocation. Planned relocation refers to managed retreat or resettlements. The term response is used here instead of adaptation because some responses, such as retreat, may or may not be considered to be adaptation. Panel (d): Selected risks under different socio-economic pathways, illustrating how development strategies and challenges to adaptation influence risk. Left - Heat-sensitive human health outcomes under three scenarios of adaptation effectiveness. The diagrams are truncated at the nearest whole ºC within the range of temperature change in 2100 under three SSP scenarios. Right - Risks associated with food security due to climate change and patterns of socio-economic development. Risks to food security include availability and access to food, including population at risk of hunger, food price increases and increases in disability adjusted life years attributable to childhood underweight. Risks are assessed for two contrasted socio- economic pathways (SSP1 and SSP3) excluding the effects of targeted mitigation and adaptation policies. {Figure 3.3} (Box SPM.1)
 
 [END FIGURE SPM.4 HERE]
 
 
-Likelihood and Risks of Unavoidable, Irreversible or Abrupt Changes
+### Likelihood and Risks of Unavoidable, Irreversible or Abrupt Changes
 
 <div class="section-summary"> *B.3 Some future changes are unavoidable and/or irreversible but can be limited by deep, rapid and sustained global greenhouse gas emissions reduction. The likelihood of abrupt and/or irreversible changes increases with higher global warming levels. Similarly, the probability of low-likelihood outcomes associated with potentially very large adverse impacts increases with higher global warming levels. (high confidence) {3.1}* </div>
 
@@ -300,7 +305,7 @@ Likelihood and Risks of Unavoidable, Irreversible or Abrupt Changes
 *B.3.3* The probability of low-likelihood outcomes associated with potentially very large impacts increases with higher global warming levels (high confidence). Due to deep uncertainty linked to ice-sheet processes, global mean sea level rise above the likely range – approaching 2 m by 2100 and in excess of 15 m by 2300 under the very high GHG emissions scenario (SSP5-8.5) (low confidence) – cannot be excluded. There is medium confidence that the Atlantic Meridional Overturning Circulation will not collapse abruptly before 2100, but if it were to occur, it would very likely cause abrupt shifts in regional weather patterns, and large impacts on ecosystems and human activities. {3.1.3} (Box SPM.1)
 
 
-Adaptation Options and their Limits in a Warmer World
+### Adaptation Options and their Limits in a Warmer World
 
 <div class="section-summary"> *B.4 Adaptation options that are feasible and effective today will become constrained and less effective with increasing global warming. With increasing global warming, losses and damages will increase and additional human and natural systems will reach adaptation limits. Maladaptation can be avoided by flexible, multi-sectoral, inclusive, long-term planning and implementation of adaptation actions, with co-benefits to many sectors and systems. (high confidence) {3.2, 4.1, 4.2, 4.3}* </div>
 
@@ -311,7 +316,7 @@ Adaptation Options and their Limits in a Warmer World
 *B.4.3* Actions that focus on sectors and risks in isolation and on short-term gains often lead to maladaptation over the long-term, creating lock-ins of vulnerability, exposure and risks that are difficult to change. For example, seawalls effectively reduce impacts to people and assets in the short-term but can also result in lock- ins and increase exposure to climate risks in the long-term unless they are integrated into a long-term adaptive plan. Maladaptive responses can worsen existing inequities especially for Indigenous Peoples and marginalised groups and decrease ecosystem and biodiversity resilience. Maladaptation can be avoided by flexible, multi- sectoral, inclusive, long-term planning and implementation of adaptation actions, with co-benefits to many sectors and systems. (high confidence) {2.3.2, 3.2}
 
 
-Carbon Budgets and Net Zero Emissions
+### Carbon Budgets and Net Zero Emissions
 
 <div class="section-summary"> *B.5 Limiting human-caused global warming requires net zero CO2 emissions. Cumulative carbon emissions until the time of reaching net-zero CO2 emissions and the level of greenhouse gas emission reductions this decade largely determine whether warming can be limited to 1.5°C or 2°C (high confidence). Projected CO2 emissions from existing fossil fuel infrastructure without additional abatement would exceed the remaining carbon budget for 1.5°C (50%) (high confidence). {2.3, 3.1, 3.3, Table 3.1}* </div>
 
@@ -329,7 +334,7 @@ Carbon Budgets and Net Zero Emissions
 
 
 
-Mitigation Pathways
+### Mitigation Pathways
 
 <div class="section-summary"> *B.6 All global modelled pathways that limit warming to 1.5°C (>50%) with no or limited overshoot, and those that limit warming to 2°C (>67%), involve rapid and deep and, in most cases, immediate greenhouse gas emissions reductions in all sectors this decade. Global net zero CO2 emissions are reached for these pathway categories, in the early 2050s and around the early 2070s, respectively. (high confidence) {3.3, 3.4, 4.1, 4.5, Table 3.1} (Figure SPM.5, Box SPM.1)* </div>
 
@@ -379,13 +384,14 @@ Limit warming to 2°C (>67%)
 
 [^48] The impacts, risks, and co-benefits of CDR deployment for ecosystems, biodiversity and people will be highly variable depending on the method, site-specific context, implementation and scale (high confidence).
 
+![](images/IPCC_AR6_SYR_SPM_Figure5.png)
 
 Figure SPM.5: Global emissions pathways consistent with implemented policies and mitigation strategies. Panel (a), (b) and (c) show the development of global GHG, CO2 and methane emissions in modelled pathways, while panel (d) shows the associated timing of when GHG and CO 2 emissions reach net zero. Coloured ranges denote the 5th to 95th percentile across the global modelled pathways falling within a given category as described in Box SPM.1. The red ranges depict emissions pathways assuming policies that were implemented by the end of 2020. Ranges of modelled pathways that limit warming to 1.5°C (>50%) with no or limited overshoot are shown in light blue (category C1) and pathways that limit warming to 2°C (>67%) are shown in green (category C3). Global emission pathways that would limit warming to 1.5°C (>50%) with no or limited overshoot and also reach net zero GHG in the second half of the century do so between 2070-2075. Panel (e) shows the sectoral contributions of CO2 and non-CO2 emissions sources and sinks at the time when net zero CO2 emissions are reached in illustrative mitigation pathways (IMPs) consistent with limiting warming to 1.5°C with a high reliance on net negative emissions (IMP-Neg) (“high overshoot”), high resource efficiency (IMP-LD), a focus on sustainable development (IMP-SP), renewables (IMP-Ren) and limiting warming to 2°C with less rapid mitigation initially followed by a gradual strengthening (IMP-GS). Positive and negative emissions for different IMPs are compared to GHG emissions from the year 2019. Energy supply (including electricity) includes bioenergy with carbon dioxide capture and storage and direct air carbon dioxide capture and storage. CO 2 emissions from land-use change and forestry can only be shown as a net number as many models do not report emissions and sinks of this category separately. {Figure 3.6, 4.1} (Box SPM.1)
 
 [END FIGURE SPM.5 HERE]
 
 
-Overshoot: Exceeding a Warming Level and Returning
+### Overshoot: Exceeding a Warming Level and Returning
 
 <div class="section-summary"> *B.7 If warming exceeds a specified level such as 1.5°C, it could gradually be reduced again by achieving and sustaining net negative global CO2 emissions. This would require additional deployment of carbon dioxide removal, compared to pathways without overshoot, leading to greater feasibility and sustainability concerns. Overshoot entails adverse impacts, some irreversible, and additional risks for human and natural systems, all growing with the magnitude and duration of overshoot. (high confidence) {3.1, 3.3, 3.4, Table 3.1, Figure 3.6}* </div>
 
@@ -396,9 +402,9 @@ Overshoot: Exceeding a Warming Level and Returning
 *B.7.3* The larger the overshoot, the more net negative CO2 emissions would be needed to return to 1.5°C by 2100. Transitioning towards net zero CO2 emissions faster and reducing non-CO2 emissions such as methane more rapidly would limit peak warming levels and reduce the requirement for net negative CO 2 emissions, thereby reducing feasibility and sustainability concerns, and social and environmental risks associated with CDR deployment at large scales. (high confidence) {3.3.3, 3.3.4, 3.4.1, Table 3.1}
 
 
-C.    Responses in the Near Term
+## C.	Responses in the Near Term
 
-Urgency of Near-Term Integrated Climate Action
+### Urgency of Near-Term Integrated Climate Action
 
 <div class="section-summary"> *C.1 Climate change is a threat to human well-being and planetary health (very high confidence). There is a rapidly closing window of opportunity to secure a liveable and sustainable future for all (very high confidence). Climate resilient development integrates adaptation and mitigation to advance sustainable development for all, and is enabled by increased international cooperation including improved access to adequate financial resources, particularly for vulnerable regions, sectors and groups, and inclusive governance and coordinated policies (high confidence). The choices and actions implemented in this decade will have impacts now and for thousands of years (high confidence). {3.1, 3.3, 4.1, 4.2, 4.3, 4.4, 4.7, 4.8, 4.9, Figure 3.1, Figure 3.3, Figure 4.2} (Figure SPM.1; Figure SPM.6)* </div>
 
@@ -411,12 +417,14 @@ Urgency of Near-Term Integrated Climate Action
 
 [START FIGURE SPM.6 HERE]
 
+![](images/IPCC_AR6_SYR_SPM_Figure6.png)
+
 Figure SPM.6: The illustrative development pathways (red to green) and associated outcomes (right panel) show that there is a rapidly narrowing window of opportunity to secure a liveable and sustainable future for all. Climate resilient development is the process of implementing greenhouse gas mitigation and adaptation measures to support sustainable development. Diverging pathways illustrate that interacting choices and actions made by diverse government, private sector and civil society actors can advance climate resilient development, shift pathways towards sustainability, and enable lower emissions and adaptation. Diverse knowledge and values include cultural values, Indigenous Knowledge, local knowledge, and scientific knowledge. Climatic and non-climatic events, such as droughts, floods or pandemics, pose more severe shocks to pathways with lower climate resilient development (red to yellow) than to pathways with higher climate resilient development (green). There are limits to adaptation and adaptive capacity for some human and natural systems at global warming of 1.5°C, and with every increment of warming, losses and damages will increase. The development pathways taken by countries at all stages of economic development impact GHG emissions and mitigation challenges and opportunities, which vary across countries and regions. Pathways and opportunities for action are shaped by previous actions (or inactions and opportunities missed; dashed pathway) and enabling and constraining conditions (left panel), and take place in the context of climate risks, adaptation limits and development gaps. The longer emissions reductions are delayed, the fewer effective adaptation options. {Figure 4.2; 3.1; 3.2; 3.4; 4.2; 4.4; 4.5; 4.6; 4.9}
 
 [END FIGURE SPM.6 HERE]
 
 
-The Benefits of Near-Term Action
+### The Benefits of Near-Term Action
 
 <div class="section-summary"> *C.2 Deep, rapid and sustained mitigation and accelerated implementation of adaptation actions in this decade would reduce projected losses and damages for humans and ecosystems (very high confidence), and deliver many co-benefits, especially for air quality and health (high confidence). Delayed mitigation and adaptation action would lock-in high-emissions infrastructure, raise risks of stranded assets and cost-escalation, reduce feasibility, and increase losses and damages (high confidence). Near-term actions involve high up-front investments and potentially disruptive changes that can be lessened by a range of enabling policies (high confidence). {2.1, 2.2, 3.1, 3.2, 3.3, 3.4, 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8}* </div>
 
@@ -438,6 +446,8 @@ The Benefits of Near-Term Action
 
 [START FIGURE SPM.7 HERE]
 
+![](images/IPCC_AR6_SYR_SPM_Figure7.png)
+
 *Figure SPM.7:* Multiple Opportunities for scaling up climate action. Panel (a) presents selected mitigation and adaptation options across different systems. The left hand side of panel a shows climate responses and adaptation options assessed for their multidimensional feasibility at global scale, in the near term and up to 1.5°C global warming. As literature above 1.5°C is limited, feasibility at higher levels of warming may change, which is currently not possible to assess robustly. The term response is used here in addition to adaptation because some responses, such as migration, relocation and resettlement may or may not be considered to be adaptation. Forest based adaptation includes sustainable forest management, forest conservation and restoration, reforestation and afforestation. WASH refers to water, sanitation and hygiene. Six feasibility dimensions (economic, technological, institutional, social, environmental and geophysical) were used to calculate the potential feasibility of climate responses and adaptation options, along with their synergies with mitigation. For potential feasibility and feasibility dimensions, the figure shows high, medium, or low feasibility. Synergies with mitigation are identified as high, medium, and low.
 
 The right hand side of Panel a provides an overview of selected mitigation options and their estimated costs and potentials in 2030. Costs are net lifetime discounted monetary costs of avoided GHG emissions calculated relative to a reference technology. Relative potentials and costs will vary by place, context and time and in the longer term compared to 2030. The potential (horizontal axis) is the net GHG emission reduction (sum of reduced emissions and/or enhanced sinks) broken down into cost categories (coloured bar segments) relative to an emission baseline consisting of current policy (around 2019) reference scenarios from the AR6 scenarios database. The potentials are assessed independently for each option and are not additive. Health system mitigation options are included mostly in settlement and infrastructure (e.g., efficient healthcare buildings) and cannot be identified separately. Fuel switching in industry refers to switching to electricity, hydrogen, bioenergy and natural gas. Gradual colour transitions indicate uncertain breakdown into cost categories due to uncertainty or heavy context dependency. The uncertainty in the total potential is typically 25–50%.
@@ -447,7 +457,7 @@ The right hand side of Panel a provides an overview of selected mitigation optio
 [END FIGURE SPM.7 HERE]
 
 
-Mitigation and Adaptation Options across Systems
+### Mitigation and Adaptation Options across Systems
 
 <div class="section-summary"> *C.3 Rapid and far-reaching transitions across all sectors and systems are necessary to achieve deep and sustained emissions reductions and secure a liveable and sustainable future for all. These system transitions involve a significant upscaling of a wide portfolio of mitigation and adaptation options. Feasible, effective, and low-cost options for mitigation and adaptation are already available, with differences across systems and regions. (high confidence) {4.1, 4.5, 4.6} (Figure SPM.7)* </div>
 
@@ -491,7 +501,7 @@ Society, Livelihoods, and Economies
 *C.3.8* Policy mixes that include weather and health insurance, social protection and adaptive social safety nets, contingent finance and reserve funds, and universal access to early warning systems combined with effective contingency plans, can reduce vulnerability and exposure of human systems. Disaster risk management, early warning systems, climate services and risk spreading and sharing approaches have broad applicability across sectors. Increasing education including capacity building, climate literacy, and information provided through climate services and community approaches can facilitate heightened risk perception and accelerate behavioural changes and planning. (high confidence) {4.5.6}
 
 
-Synergies and Trade-Offs with Sustainable Development
+### Synergies and Trade-Offs with Sustainable Development
 
 <div class="section-summary"> *C.4 Accelerated and equitable action in mitigating and adapting to climate change impacts is critical to sustainable development. Mitigation and adaptation actions have more synergies than trade-offs with Sustainable Development Goals. Synergies and trade-offs depend on context and scale of implementation. (high confidence) {3.4, 4.2, 4.4, 4.5, 4.6, 4.9, Figure 4.5}* </div>
 
@@ -502,7 +512,7 @@ Synergies and Trade-Offs with Sustainable Development
 *C.4.3* Implementing both mitigation and adaptation actions together and taking trade-offs into account supports co-benefits and synergies for human health and well-being. For example, improved access to clean energy sources and technologies generate health benefits especially for women and children; electrification combined with low-GHG energy, and shifts to active mobility and public transport can enhance air quality, health, employment, and can elicit energy security and deliver equity. (high confidence) {4.2, 4.5.3, 4.5.5, 4.6, 4.9}
 
 
-Equity and Inclusion
+### Equity and Inclusion
 
 <div class="section-summary"> *C.5 Prioritising equity, climate justice, social justice, inclusion and just transition processes can enable adaptation and ambitious mitigation actions and climate resilient development. Adaptation outcomes are enhanced by increased support to regions and people with the highest vulnerability to climatic hazards. Integrating climate adaptation into social protection programs improves resilience. Many options are available for reducing emission-intensive consumption, including through behavioural and lifestyle changes, with co-benefits for societal well-being. (high confidence) {4.4, 4.5}* </div>
 
@@ -515,7 +525,7 @@ Equity and Inclusion
 *C.5.4* The design of regulatory instruments and economic instruments and consumption-based approaches, can advance equity. Individuals with high socio-economic status contribute disproportionately to emissions, and have the highest potential for emissions reductions. Many options are available for reducing emission-intensive consumption while improving societal well-being. Socio-cultural options, behaviour and lifestyle changes supported by policies, infrastructure, and technology can help end-users shift to low-emissions-intensive consumption, with multiple co-benefits. A substantial share of the population in low-emitting countries lack access to modern energy services. Technology development, transfer, capacity building and financing can support developing countries/ regions leapfrogging or transitioning to low-emissions transport systems thereby providing multiple co-benefits. Climate resilient development is advanced when actors work in equitable, just and inclusive ways to reconcile divergent interests, values and worldviews, toward equitable and just outcomes. (high confidence) {2.1, 4.4}
 
 
-Governance and Policies
+### Governance and Policies
 
 <div class="section-summary"> *C.6 Effective climate action is enabled by political commitment, well-aligned multilevel governance, institutional frameworks, laws, policies and strategies and enhanced access to finance and technology. Clear goals, coordination across multiple policy domains, and inclusive governance processes facilitate effective climate action. Regulatory and economic instruments can support deep emissions reductions and climate resilience if scaled up and applied widely. Climate resilient development benefits from drawing on diverse knowledge. (high confidence) {2.2, 4.4, 4.5, 4.7}* </div>
 
@@ -533,7 +543,7 @@ Governance and Policies
 [^54] Fossil fuel subsidy removal is projected by various studies to reduce global CO2 emission by 1-4%, and GHG emissions by up to 10% by 2030, varying across regions (medium confidence).
 
 
-Finance, Technology and International Cooperation
+### Finance, Technology and International Cooperation
 
 <div class="section-summary"> *C.7 Finance, technology and international cooperation are critical enablers for accelerated climate action. If climate goals are to be achieved, both adaptation and mitigation financing would need to increase many-fold. There is sufficient global capital to close the global investment gaps but there are barriers to redirect capital to climate action. Enhancing technology innovation systems is key to accelerate the widespread adoption of technologies and practices. Enhancing international cooperation is possible through multiple channels. (high confidence) {2.3, 4.8}* </div>
 
