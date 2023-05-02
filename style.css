@@ -5,13 +5,22 @@ p { font-size: 24px; }
 
 img { width: 100%; }
 
+.section-summary,
+.box {
+	padding: 0.5em;
+}
 .section-summary {
 	background: #F7CAAC;
 }
+.section-summary > *:first-child { margin-top: 0px; }
+.section-summary > *:last-child { margin-bottom: 0px; }
 
 .box {
 	background: #DEEBF6;
 }
+.box > *:first-child { margin-top: 0px; }
+.box > *:last-child { margin-bottom: 0px; }
+
 
 .border {
 	padding: 1em;
