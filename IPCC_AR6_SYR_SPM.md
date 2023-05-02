@@ -192,8 +192,8 @@ Global warming levels (GWLs) relative to 1850–1900 are used to integrate the a
 
 <figcaption>
 \* See footnote 27 for the SSPx-y terminology.  
-\**\** See footnote 28 for the RCPy terminology.  
-\**\**\* Limited overshoot refers to exceeding 1.5°C global warming by up to about 0.1°C, high overshoot by 0.1°C-0.3°C, in both cases for up to several decades.
+\*\* See footnote 28 for the RCPy terminology.  
+\*\*\* Limited overshoot refers to exceeding 1.5°C global warming by up to about 0.1°C, high overshoot by 0.1°C-0.3°C, in both cases for up to several decades.
 </figcaption>
 </figure>
 
